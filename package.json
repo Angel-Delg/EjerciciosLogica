@@ -1,0 +1,17 @@
+{
+  "name": "clase-practica",
+  "version": "1.0.0",
+  "description": "Esta clase aprendemos a mejorar nuestra logica de programación",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Angel Lopez Delgado",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
